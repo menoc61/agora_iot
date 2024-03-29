@@ -1,4 +1,4 @@
-package com.example.agoraiot
+package com.example.firebase_auth
 
 import io.flutter.embedding.android.FlutterActivity
 

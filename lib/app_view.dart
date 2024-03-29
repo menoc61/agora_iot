@@ -1,5 +1,5 @@
-import 'package:agoraiot/blocs/authentication_bloc/authentication_bloc.dart';
-import 'package:agoraiot/screens/auth/welcome_screen.dart';
+import 'package:firebase_auth_youtube/blocs/authentication_bloc/authentication_bloc.dart';
+import 'package:firebase_auth_youtube/screens/auth/welcome_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'blocs/sign_in_bloc/sign_in_bloc.dart';
@@ -11,7 +11,7 @@ class MyAppView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-			title: 'Agora IOT',
+			title: 'Firebase Auth',
 			theme: ThemeData(
 				colorScheme: const ColorScheme.light(
           background: Colors.white,
