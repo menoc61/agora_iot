@@ -1,6 +1,6 @@
 {
-    "name": "agora_iot",
-    "short_name": "agora_iot",
+    "name": "firebase_auth",
+    "short_name": "firebase_auth",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
