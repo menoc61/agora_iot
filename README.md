@@ -1,11 +1,6 @@
-# agoraiot
+# Agora IOT
 
-
-install dependencies 
-
-# Project Name
-
-A brief description of what the project does.
+Agora IoT is a basic smart farming solution that utilizes Flutter for the frontend user interface and integrates with Firebase for backend services. It enables real-time monitoring and control of farming equipment, data collection from sensors, user authentication, and notifications for critical farming conditions.
 
 ## Table of Contents
 
@@ -46,7 +41,7 @@ To install and set up the project, follow these steps:
 
 ## Usage
 
-Instructions on how to use the project and any relevant examples or screenshots.
+>To generate data for the graphs plots follow the instructions of the data folder ReadMe.md
 
 ## Testing
 

@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
 			appBar: AppBar(
 				title: const Text(
-					'Welcome, you are In !'
+					'IOT device telemetry'
 				),
 				actions: [
 					IconButton(
