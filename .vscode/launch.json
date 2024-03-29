@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "agora_iot",
+            "name": "agoraiot",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "agora_iot (profile mode)",
+            "name": "agoraiot (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "agora_iot (release mode)",
+            "name": "agoraiot (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

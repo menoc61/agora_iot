@@ -1,5 +1,5 @@
-import 'package:agora_iot/app_view.dart';
-import 'package:agora_iot/blocs/authentication_bloc/authentication_bloc.dart';
+import 'package:agoraiot/app_view.dart';
+import 'package:agoraiot/blocs/authentication_bloc/authentication_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:user_repository/user_repository.dart';

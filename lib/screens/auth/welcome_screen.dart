@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:agora_iot/screens/auth/sign_in_screen.dart';
-import 'package:agora_iot/screens/auth/sign_up_screen.dart';
+import 'package:agoraiot/screens/auth/sign_in_screen.dart';
+import 'package:agoraiot/screens/auth/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

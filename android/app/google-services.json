@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65028264946",
+    "firebase_url": "https://agora-iot-farm-default-rtdb.firebaseio.com",
+    "project_id": "agora-iot-farm",
+    "storage_bucket": "agora-iot-farm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65028264946:android:5274fff0a73393fc41d16b",
+        "android_client_info": {
+          "package_name": "com.menoc61.agoraiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65028264946-9l7lfquv2k46cg6hvu29dag0h40ki75v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0x9KwBCbj1d1pU3PfUHGqrEqVXx5KjuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65028264946-9l7lfquv2k46cg6hvu29dag0h40ki75v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65028264946-46v9lrvlqqgjikggf5t0794val0rb8ua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agoraiotfarm.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
